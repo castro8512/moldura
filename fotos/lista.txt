@@ -1,2 +1,3 @@
 foto6.bmp
 foto7.bmp
+foto8.bmp
