@@ -1,6 +1,1 @@
-foto1.bmp
-foto2.bmp
-foto3.bmp
-foto4.bmp
-foto5.bmp
 foto6.bmp
