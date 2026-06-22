@@ -2,5 +2,4 @@ foto7.bmp
 foto9.bmp
 foto11.bmp
 foto12.bmp
-foto13.bmp
 foto15.bmp
